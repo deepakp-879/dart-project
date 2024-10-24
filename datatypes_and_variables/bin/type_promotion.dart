@@ -7,4 +7,7 @@ void main(List<String> args) {
   double someValue2=10;
   ///valid statement
   /// double datatype promote the value of int and treat it more precisely
+  print(value);
+  print(someValue);
+  print(someValue2);
 }
